@@ -1,2 +1,2 @@
 # atoz
-atoz complete product using HTML, CSS, JS, ANGULAR, FAKE API, BOOTSTRAP,TYPESCRIPT
+atoz complete product using HTML, CSS, JS, ANGULAR, FAKE API, BOOTSTRAP,TYPESCRIPT.
