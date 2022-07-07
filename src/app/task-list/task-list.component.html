@@ -1,0 +1,6 @@
+ <div class="card-body">
+              <h2>My Current Task ({{tasks.length}})</h2>
+              <ul>
+                <li class="d-flex p-2 m-2" *ngFor="let task of tasks; let i=index;">{{task}} <button class="btn btn-danger btn-sm" (click)="removeTask(i)"> Delete</button></li>
+                 </ul>
+            </div> 
